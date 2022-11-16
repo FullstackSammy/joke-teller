@@ -45,7 +45,7 @@ async function getJokes() {
         // toggleButton();
     } catch (error) {
         // catch errors
-        console.log('whoops', error);
+        console.log('whoopsie daisies', error);
     };
 }
 
